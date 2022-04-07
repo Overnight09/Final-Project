@@ -11,6 +11,21 @@ The Metric:
 
 
 Analysis:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Data from Website
+
+_id	datetime_est	site	parameter	is_valid	report_value	unit	unit_description	highest_flag	aqs_parameter_category
+1	2016-01-01T00:00:00	Lincoln	PM25	True	3.0	UG/M3	micrograms per cubic meter	None	Particulate
+2	2016-01-01T00:00:00	Lincoln	PER_F2	True	67.0	PERCENT	Percent	None	None
+3	2016-01-01T00:00:00	Liberty	SO2	True	0.001	PPM	Parts Per Million	C	Criteria Pollutants
+4	2016-01-01T00:00:00	Liberty	SONICWS	True	6.9	MPH	miles per hour	None	Meteorological
+5	2016-01-01T00:00:00	Liberty	SONICWD	True	259.0	DEG	Degrees	None	Meteorological
+6	2016-01-01T00:00:00	Liberty	H2S	True	0.0	PPM	Parts Per Million	C	None
+7	2016-01-01T00:00:00	Liberty	OUT_T	True	-0.4	DEGC	Degrees Celsius	None	Meteorological
+8	2016-01-01T00:00:00	Liberty	INT_T	True	25.8	DEGC	Degrees Celsius	None	None
+9	2016-01-01T00:00:00	North Braddock	OUT_T	True	-0.4	DEGC	Degrees Celsius	None	Meteorological
+10	2016-01-01T00:00:00	North Braddock	PM10B	True	18.0	UG/M3	micrograms per cubic meter	None	Criteria Pollutants
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
      From the data of air quality, there are reports on air condition from different sites. However, some are reliable and some are not. It's important 
      that people can receive the right resources regarding to the air quality if looking for the best neighborhood in Pittsburgh or any other areas.  
      
